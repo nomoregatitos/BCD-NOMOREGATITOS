@@ -10,8 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-How it works?
-MI BCD es de 4 entradas y 7 segmentos de salida lo que hace es ke en un numero binario; lo convierte en uno real 
+MI BCD es de 4 entradas y 7 segmentos de salida lo que hace es que en un numero binario; lo convierte en uno real 
 
 ## How to test
 
